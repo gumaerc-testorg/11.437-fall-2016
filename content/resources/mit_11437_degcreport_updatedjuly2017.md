@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-437-financing-economic-development-fall-2016/4755da60f5eb46be070690ba1b87664c_MIT_11437_DEGCReport_UpdatedJuly2017.pdf
+file: /media/courses/11-437-financing-economic-development-fall-2016/4755da60f5eb46be070690ba1b87664c_MIT_11437_DEGCReport_UpdatedJuly2017.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MIT_11437_DEGCReport_UpdatedJuly2017
 uid: 4755da60-f5eb-46be-0706-90ba1b87664c
