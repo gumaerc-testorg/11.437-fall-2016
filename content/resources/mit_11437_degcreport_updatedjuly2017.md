@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7b55fbcb-c880-6383-02a6-77a8151fc9ca
 resourcetype: Document
 title: MIT_11437_DEGCReport_UpdatedJuly2017
 uid: 4755da60-f5eb-46be-0706-90ba1b87664c

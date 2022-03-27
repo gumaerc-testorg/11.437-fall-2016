@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7b55fbcb-c880-6383-02a6-77a8151fc9ca
 resourcetype: Document
 title: MIT 17.251 Fall 2015 Business Financial Statement Analysis Worksheet
 uid: 8f5a0008-eb55-262c-a875-24316d77772d

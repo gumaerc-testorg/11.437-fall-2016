@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7b55fbcb-c880-6383-02a6-77a8151fc9ca
 resourcetype: Document
 title: MIT 11.437 Fall 2016 City Plaza Real Estate Financial Analysis
 uid: 13838fa9-d773-0185-8811-42809759ad5e

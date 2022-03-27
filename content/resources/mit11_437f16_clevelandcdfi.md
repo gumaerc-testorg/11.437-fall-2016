@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7b55fbcb-c880-6383-02a6-77a8151fc9ca
 resourcetype: Document
 title: MIT 11.437 Fall 2016 Cleveland CDFI Worksheet
 uid: d4354057-6dfd-1e97-c7f1-f49c69d9f0df
