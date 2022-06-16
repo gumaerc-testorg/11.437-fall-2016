@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains information about the assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -16,9 +17,9 @@ Financial Analysis Worksheets
 
 These worksheets are intended to extend and reinforce key financial analysis concepts and skills introduced in class. They summarize the purpose, interpretation, and formulas for key calculation and require several calculations and brief comments on their interpretation and related issues. Completion of the worksheets is required, but they will not be graded.
 
-*   Class 5: [Business Financial Statement Analysis Worksheet (PDF)]({{< baseurl >}}/resources/mit11_437f16_businessfinance)
-*   Class 8: [City Plaza Real Estate Financial Analysis Worksheet (PDF)]({{< baseurl >}}/resources/mit11_437f16_cityplaza)
-*   Class 11: [Orlando TIF Financial Analysis Worksheet (PDF)]({{< baseurl >}}/resources/mit11_437f16_orlando)
+*   Class 5: {{% resource_link 8f5a0008-eb55-262c-a875-24316d77772d "Business Financial Statement Analysis Worksheet (PDF)" %}}
+*   Class 8: {{% resource_link 13838fa9-d773-0185-8811-42809759ad5e "City Plaza Real Estate Financial Analysis Worksheet (PDF)" %}}
+*   Class 11: {{% resource_link b1917c59-fd07-7299-bc92-afc2aa496129 "Orlando TIF Financial Analysis Worksheet (PDF)" %}}
 
 Case Study Analyses
 -------------------
@@ -28,7 +29,7 @@ Five case study write-ups are listed on the syllabus. The background, financial 
 *   Class 6: Working Capital Loan Request Analysis (Crystal Clear Window Company) - Pages 103-110
 *   Class 9: Employee Buyout Loan Request Analysis (Phoenix Forge) - Pages 123-132
 *   Class 13: Federal Programs and Real Estate Finance (Inner City Supermarket) - Pages 334-340
-*   Class 19: [Development Finance System and CDFIs (Cleveland) (PDF)]({{< baseurl >}}/resources/mit11_437f16_clevelandcdfi)
+*   Class 19: {{% resource_link d4354057-6dfd-1e97-c7f1-f49c69d9f0df "Development Finance System and CDFIs (Cleveland) (PDF)" %}}
 *   Class 24: Raising Capital for a Development Finance Entity (Manufacturer's Fund Recapitalization) - Pages 433-439
 
 Term Project
@@ -38,6 +39,6 @@ The term project is only required for graduate students, and entails a team of g
 
 Below are examples of student projects that were produced during the Fall 2016 iteration of the course.
 
-"[Leveraging Development Incentives in Detroit (PDF)]({{< baseurl >}}/resources/mit_11437_degcreport_updatedjuly2017)" prepared for the Detroit Economic Growth Corporation
+"{{% resource_link 4755da60-f5eb-46be-0706-90ba1b87664c "Leveraging Development Incentives in Detroit (PDF)" %}}" prepared for the Detroit Economic Growth Corporation
 
-"[Food Access Financing in Detroit (PDF - 3.7MB)]({{< baseurl >}}/resources/mit_11437_mgffstudentproject)" prepared for the Michigan Good Food Fund
+"{{% resource_link ed00f2a9-dcdb-0386-c094-9c4d563833ff "Food Access Financing in Detroit (PDF - 3.7MB)" %}}" prepared for the Michigan Good Food Fund

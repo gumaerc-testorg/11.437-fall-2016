@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-437-financing-economic-development-fall-2016/d43540576dfd1e97c7f1f49c69d9f0df_MIT11_437F16_ClevelandCDFI.pdf
+file: /courses/11-437-financing-economic-development-fall-2016/d43540576dfd1e97c7f1f49c69d9f0df_MIT11_437F16_ClevelandCDFI.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

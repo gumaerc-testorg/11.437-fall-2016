@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-437-financing-economic-development-fall-2016/b1917c59fd077299bc92afc2aa496129_MIT11_437F16_Orlando.pdf
+file: /courses/11-437-financing-economic-development-fall-2016/b1917c59fd077299bc92afc2aa496129_MIT11_437F16_Orlando.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

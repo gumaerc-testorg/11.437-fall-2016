@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Whyte Avenue in downtown Edmonton, Alberta.
-file: /media/courses/11-437-financing-economic-development-fall-2016/d0bc7c136be93703f362a3ae6cffa890_MIT11-437f16-edmonton.jpg
+file: /courses/11-437-financing-economic-development-fall-2016/d0bc7c136be93703f362a3ae6cffa890_MIT11-437f16-edmonton.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Whyte Avenue in downtown Edmonton, Alberta, Canada, buzzes with life due
@@ -15,3 +15,5 @@ resourcetype: Image
 title: MIT11-437f16-edmonton
 uid: d0bc7c13-6be9-3703-f362-a3ae6cffa890
 ---
+Whyte Avenue in downtown Edmonton, Alberta.
+
