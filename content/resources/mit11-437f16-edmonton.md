@@ -10,10 +10,10 @@ image_metadata:
   credit: Courtesy of Edmonton Economic Development Corporation on Flickr. CC BY-NC-SA.
   image-alt: A photo of downtown Edmonton, Alberta, Canada.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: MIT11-437f16-edmonton
 uid: d0bc7c13-6be9-3703-f362-a3ae6cffa890
 ---
 Whyte Avenue in downtown Edmonton, Alberta.
-
