@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This section contains information about the Phoenix Forge role-play assignment.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 7b55fbcb-c880-6383-02a6-77a8151fc9ca
 title: Phoenix Forge Role-Play
 uid: 77e29f19-21cb-95fe-72bc-e5e1eb9604b4
