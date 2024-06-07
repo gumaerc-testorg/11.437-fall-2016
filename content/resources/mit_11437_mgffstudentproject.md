@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-437-financing-economic-development-fall-2016/ed00f2a9dcdb0386c0949c4d563833ff_MIT_11437_MGFFStudentProject.pdf
+file_size: 3931352
 file_type: application/pdf
 learning_resource_types:
 - Assignments
