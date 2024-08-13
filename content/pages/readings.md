@@ -52,7 +52,7 @@ READINGS
 
 \[SEI\] Chapter 2.
 
-Berger, Allen N., and Gregory F. Udell. "[The Economics of Small Business Finance: The Roles of Private Equity and Debt Markets in the Financial Growth Cycle](https://doi.org/10.1016/S0378-4266(98)00038-7)." *Journal of Banking & Finance* 22, no. 6 (1998): 613–673.
+Berger, Allen N., and Gregory F. Udell. "[The Economics of Small Business Finance: The Roles of Private Equity and Debt Markets in the Financial Growth Cycle](https://doi.org/10.1016/S0378-4266%2898%2900038-7)." *Journal of Banking & Finance* 22, no. 6 (1998): 613–673.
 
 Mills, Karen, and Brayden McCarthy. "[The State of Small Business Lending: Credit Access During the Recovery and How Technology May Change the Game](http://www.hbs.edu/faculty/Pages/item.aspx?num=47695)." *HBS Working Paper Series* (2014): 3–7, 36–56.
 
@@ -162,9 +162,7 @@ Abravanel, Martin D., Kassie Bertumen, Rachel Brash, Zach McDade, Nancy M. Pindu
 
 Brash, Rachel, Megan Gallagher, Christopher R. Hayes, Shelli B. Rossman, Kenneth Temkin, and Brett Theodos. "[Key Findings from the Evaluation of the Small Business Administration's Loan and Investment Programs](https://www.urban.org/sites/default/files/publication/31426/411602-Key-Findings-from-the-Evaluation-of-the-Small-Business-Administration-s-Loan-and-Investment-Programs.PDF) (PDF)." The Urban Institute. 2008. Pages 1–29, 36–41.
 
-Community Development Financial Institution Fund. "[Investing for the Future: Fiscal Year 2013 CDFI Fund Year in Review (PDF–3.3MB)](https://www.mycdfi.cdfifund.gov/news_events/CDFI7325_1_YR_2013web_V05abf_508%20v4.pdf)." U.S. Department of Treasury. 2014.
-
-Community Development Financial Institution Fund. "[Overview of What We Do](https://www.mycdfi.cdfifund.gov/what_we_do/overview.asp)." U.S. Department of the Treasury. 2017.
+Community Development Financial Institution Fund. "[Investing for the Future: Fiscal Year 2013 CDFI Fund Year in Review (PDF–3.3MB)](https://www.cdfifund.gov/sites/cdfi/files/documents/cdfi7325_1_yr_2013web_v05abf_508-v4.pdf)." U.S. Department of Treasury. 2014.
 
 Prunella, Priscila, Brett Theodos, and Alexander Thackeray. "[Federally Sponsored Local Economic and Community Development: A Look at HUD's Section 108 Program](https://doi.org/10.1080/10511482.2013.864320)." *Housing Policy Debate* 24, no. 1 (2014): 258–287.
 
@@ -200,7 +198,7 @@ Kubert, Charles and Mark Sinclair. "[State Support for Clean Energy Deployment: 
 
 Newburger, Robin. "After the Financial Crisis: The Roles and Responsibilities of Banking Institutions in Financing Community Economic Development" in White, Sammis B., and Zenia Z. Kotval. *Financing Economic Development in the 21st Century*. Routledge, 2012. ISBN: 9780765627834.
 
-JP Morgan Chase & Co. "[Invested In Detroit's Future: Two Years In (PDF–2.2MB)](http://www.detroitchamber.com/wp-content/uploads/2019/11/Chase-Detroit-Report-2016.pdf)." 2016.
+JP Morgan Chase & Co. "Invested In Detroit's Future: Two Years In." 2016.
 
 [JP Morgan Chase and Detroit](https://www.jpmorganchase.com/corporate/Corporate-Responsibility/detroit.htm).
 
@@ -222,7 +220,7 @@ Carpentier, Cécile, and Jean-Marc Suret. "[Entrepreneurial Equity Financing and
 
 \[SEI\] Chapter 10, Chapter 17, pages 406–410.
 
-Rutgers University Center for Urban Policy Research. "[EDA RLFs: Planning, Local Structural Change, and Overall Performance](http://cupr.rutgers.edu/projects/eda-evaluation/)." 2002.
+Rutgers University Center for Urban Policy Research. "EDA RLFs: Planning, Local Structural Change, and Overall Performance." 2002.
 
 Council of Development Finance Agencies. "[Revolving Loan Fund Resource Center](https://www.cdfa.net/cdfa/cdfaweb.nsf/ordredirect.html?open&id=rlfresourcecenter.html)." 2017.
 
@@ -244,9 +242,9 @@ Freear, John, and Jeffrey E. Sohl. "Angles on Angels and Venture Capital: Financ
 
 Michigan Venture Capital Association. "[Michigan Venture Capital 2016 Annual Research Report (PDF–2.5MB)](http://michiganvca.org/wp-content/uploads/2016/04/2016-MVCA-Research-Report.pdf)." 2016.
 
-Piazza, Merissa, Joan Chase, Chang-Shik Song, Elorm Tsegah, et. al. "[Detroit Regional Analysis: Demographics, Economy, Entrepreneurship and Innovation](https://works.bepress.com/merissa_piazza/18/)." Cleveland State University Center for Economic Development. April 2012.
+Piazza, Merissa, Joan Chase, Chang-Shik Song, Elorm Tsegah, et. al. "[Detroit Regional Analysis: Demographics, Economy, Entrepreneurship and Innovation](https://engagedscholarship.csuohio.edu/urban_facpub/110/)." Cleveland State University Center for Economic Development. April 2012.
 
-NGA Center for Best Practices. "[Issue Brief: State Strategies to Promote Angel Investment for Economic Growth (PDF)](https://www.nga.org/files/live/sites/NGA/files/pdf/0802ANGELINVESTMENT.PDF)." February 14, 2008. Pages 5–10.
+NGA Center for Best Practices. "Issue Brief: State Strategies to Promote Angel Investment for Economic Growth (PDF)." February 14, 2008. Pages 5–10.
 
 PricewaterhouseCoopers National Venture Capital Association. "[MoneyTree™ Report: Q2 2016 (PDF)](https://www.pwc.com/us/en/technology/assets/pwc-national-moneytree-q2-2016-summary-report.pdf)." Data provided by Thomson Reuters. July 2016.
 
@@ -256,7 +254,7 @@ Gaddy, Benjamin, Varun Sivaram, and Francis O’Sullivan. "[Venture Capital and 
 
 Economic Development Research Group. "[Evaluation of the Minnesota Angel Tax Credit Program: 2010-2012 (PDF–3.4MB)](https://www.revenue.state.mn.us/sites/default/files/2014-02/evaluation_of_the_mn_angel_tax_credit_program.pdf)." January 2014. Read Executive Summary (pages 1–5) and Analysis of Investment Disparities (54–68).
 
-Nanda, Ramana, Ken Younge, and Lee Fleming. "[Innovation and Entrepreneurship in Renewable Energy (PDF)](http://www.hbs.edu/faculty/Publication%20Files/Nanda_Younge_Fleming_October_2013%20(2)_725c0917-7769-43c2-ae3c-df472eced570.pdf)." Harvard Business School (2013).
+Nanda, Ramana, Ken Younge, and Lee Fleming. "[Innovation and Entrepreneurship in Renewable Energy (PDF)](http://www.hbs.edu/faculty/Publication%20Files/Nanda_Younge_Fleming_October_2013%20%282%29_725c0917-7769-43c2-ae3c-df472eced570.pdf)." Harvard Business School (2013).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
@@ -273,7 +271,7 @@ Review materials on CDFI examples:
 - [Self-Help Credit Union](https://www.self-help.org/).
 - Self-Help Credit Union. "[2015 Annual Report](https://www.self-help.org/ar/2015/)."
 - [Invest Detroit](http://investdetroit.com/wp-content/uploads/2019/01/Invest_Detroit_2015_Annual_Report.pdf).
-- Invest Detroit. "[2015 Annual Report (PDF–12.1MB)](http://41ruap1e0cp9mz21zqijnsw1-wpengine.netdna-ssl.com/wp-content/uploads/2019/01/Invest_Detroit_2015_Annual_Report.pdf)."
+- Invest Detroit. "[2015 Annual Report (PDF–12.1MB)](https://investdetroit.com/wp-content/uploads/2019/01/Invest_Detroit_2015_Annual_Report.pdf)."
 - [Detroit Development Fund](https://www.detroitdevelopmentfund.com/).
 - [Capital Impact Partners](https://www.capitalimpact.org/).
 - Capital Impact Partners. "[2015 Annual Report](http://www.capitalimpact.org/annualreport/2015.php)."
@@ -286,15 +284,13 @@ Review materials on CDFI examples:
 
 Servon, Lisa J. "[Microenterprise Development in the United States: Current Challenges and New Directions](https://doi.org/10.1177/0891242406289355)." *Economic Development Quarterly* 20, no. 4 (2006): 351–367.
 
-Glenn, Claire and Tracy Pierce. "[Microenterprise Development in Michigan: Assessing Coverage, Access and Outreach](https://reicenter.org/projects/completed-projects/finance-legal-and-exporting/microenterprise-development-in-michigan-assessing-coverage-access-and-outreach-2)." Microenterprise Network of Michigan, CEDAM. 2012.
+Glenn, Claire and Tracy Pierce. "[Microenterprise Development in Michigan: Assessing Coverage, Access and Outreach](https://mla.hcommons.org/deposits/item/hc:55377/)." Microenterprise Network of Michigan, CEDAM. 2012.
 
 FIELD at the Aspen Institute. "[U.S. Microenterprise Census Highlights](http://fieldus.org/Publications/index.html#2002Dir)."
 
 Explore the [Economic & Community Development Institute](https://www.ecdi.org/) and [Maryland Capital Enterprises](http://www.marylandcapital.org/about) websites as examples of state-level microenterprise development entities.
 
 *Optional*
-
-Edgcomb, Elaine. "[Entrepreneurship Development Systems: The WK Kellogg Foundation Demonstration (PDF)](http://fieldus.org/Projects/pdf/EDSspeech_11_08.pdf)." Conference Presentation. St. Louis, MO, Nov 6 (2008).
 
 Burrus, William. "[Innovations in Microenterprise Development in the United States](http://www.centerforfinancialinclusion.org/publications-a-resources/browse-publications/308)." Accion USA (2006).
 
@@ -336,7 +332,7 @@ No readings
 
 *Optional*
 
-Berger, Andrea, Marisa Barrera, and Joyce Klein. "[Credit Scoring for Microenterprise Lenders (PDF)](http://fieldus.org/projects/pdf/CreditScoring.pdf)." Microenterprise Fund for Innovation, Effectiveness, Learning and Dissemination, 2007.
+Berger, Andrea, Marisa Barrera, and Joyce Klein. "[Credit Scoring for Microenterprise Lenders (PDF)](https://www.aspeninstitute.org/wp-content/uploads/2017/06/CreditScoring.pdf)." Microenterprise Fund for Innovation, Effectiveness, Learning and Dissemination, 2007.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
