@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-437-financing-economic-development-fall-2016/13838fa9d7730185881142809759ad5e_MIT11_437F16_CityPlaza.pdf
+file: /ol-ocw-studio-app/courses/11-437-financing-economic-development-fall-2016/13838fa9d7730185881142809759ad5e_MIT11_437F16_CityPlaza.pdf
 file_size: 197017
 file_type: application/pdf
 learning_resource_types:
