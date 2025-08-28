@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/11-437-financing-economic-development-fall-2016/4755da60f5eb46be070690ba1b87664c_MIT_11437_DEGCReport_UpdatedJuly2017.pdf
+file: /ol-ocw-studio-app/courses/11-437-financing-economic-development-fall-2016/4755da60f5eb46be070690ba1b87664c_MIT_11437_DEGCReport_UpdatedJuly2017.pdf
 file_size: 2293734
 file_type: application/pdf
 learning_resource_types:
