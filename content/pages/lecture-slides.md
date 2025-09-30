@@ -10,7 +10,7 @@ uid: c62260bb-773a-cea7-4cd0-1dae71b9bf39
 
 {{< resource d0bc7c13-6be9-3703-f362-a3ae6cffa890 >}}
 
-Courtesy of [Edmonton Economic Development Corporation](https://flic.kr/p/e8LHRG) on Flickr. CC BY-NC-SA.
+Courtesy of {{% resource_link "719198b8-9541-479b-be28-fe70b1d6a81a" "Edmonton Economic Development Corporation" %}} on Flickr. CC BY-NC-SA.
 
 {{% resource_link f0b74950-0d39-12f4-4c3e-2cefd3894f21 "Lecture 2: Frameworks (PDF)" %}}
 
